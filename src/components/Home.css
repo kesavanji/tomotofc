@@ -1,0 +1,66 @@
+.home{
+     padding: 10% 5% 0 5%;
+}
+h1{
+    font-size: 100px;
+    color: white;
+}
+.home_img{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.home p{
+    font-size: 18px;
+    color: white;
+}
+.home_img .img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    padding: 5px;
+    object-fit: cover;
+    background-color: wheat;
+}
+.img img:hover{
+    animation: rotate 1s linear;
+}
+@keyframes rotate {
+    from{
+        transform:rotate(0deg) translateX(0px);
+
+    }to{
+        transform:rotate(180deg) translateX(10px);
+    }
+    
+}
+.home-b{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    bottom: 25px;
+    right: 100px;
+    background-color: white;
+    padding: 7px 25px;
+    border-radius: 30px;
+}
+.home-b img{
+    width: 35px;
+    
+}
+.home-b a{
+    font-size: 18px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: .2s;
+}
+.home-b a:hover{
+    letter-spacing: 0;
+}

@@ -1,0 +1,17 @@
+.food{
+     padding: 5%;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: center;
+     gap: 20px;
+}
+.food-container{
+     background-color: white;
+}
+ .food-container h1{
+     color: black;
+     text-align: center;
+     font-size: 100px;
+     font-family: 'Times New Roman', Times, serif;
+ }

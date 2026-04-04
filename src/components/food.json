@@ -1,0 +1,121 @@
+[
+    {
+        "id":1,
+        "name":"Veg food",
+        "pic": "/images/food_1.png",
+        "price":250
+    },
+    {
+        "id":2,
+        "name":"nonveg food",
+        "pic": "/images/food_2.png",
+        "price":200
+    },
+    {
+        "id":3,
+        "name":"flowerfood",
+        "pic": "/images/food_3.png",
+        "price":250
+    },
+    {
+        "id":4,
+        "name":"Tomotofood",
+        "pic": "/images/food_4.png",
+        "price":120
+    },
+    {
+        "id":5,
+        "name":"Roelfood",
+        "pic": "/images/food_5.png",
+        "price":500
+    },
+    {
+        "id":6,
+        "name":"Savarma",
+        "pic": "/images/food_6.png",
+        "price":250
+    },
+    {
+        "id":7,
+        "name":"chappathi",
+        "pic": "/images/food_7.png",
+        "price":250
+    },
+    {
+        "id":8,
+        "name":"pappies",
+        "pic": "/images/food_8.png",
+        "price":250
+    },
+    {
+        "id":9,
+        "name":"vennila",
+        "pic": "./images/food_9.png",
+        "price":250
+    },
+    {
+        "id":10,
+        "name":"Eggfood",
+        "pic": "/images/food_10.png",
+        "price":250
+    },
+    {
+        "id":11,
+        "name":"jerrycake",
+        "pic": "/images/food_11.png",
+        "price":250
+    },
+    {
+        "id":12,
+        "name":"chovencake",
+        "pic": "/images/food_12.png",
+        "price":250
+    },
+    {
+        "id":13,
+        "name":"bunfood",
+        "pic": "/images/food_13.png",
+        "price":250
+    },
+    {
+        "id":14,
+        "name":"buidbutter",
+        "pic": "/images/food_14.png",
+        "price":250
+    },
+    {
+        "id":15,
+        "name":"paperfood",
+        "pic": "/images/food_15.png",
+        "price":250
+    },
+    {
+        "id":16,
+        "name":"leftfood",
+        "pic": "/images/food_16.png",
+        "price":250
+    },
+    {
+        "id":17,
+        "name":"Sweetcake",
+        "pic": "/images/food_17.png",
+        "price":250
+    },{
+        "id":18,
+        "name":"appleoffod",
+        "pic": "/images/food_18.png",
+        "price":250
+    },
+    {
+        "id":19,
+        "name":"muthirmidka",
+        "pic": "/images/food_19.png",
+        "price":250
+    },
+    {
+        "id":20,
+        "name":"Cakekitfldo",
+        "pic": "/images/food_20.png",
+        "price":250
+    }
+]
