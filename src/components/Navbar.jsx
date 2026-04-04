@@ -7,7 +7,7 @@ export const Navbar = () => {
         <h2 className="logo">TomotoFC </h2>
         <ul>
             <li>
-                <NavLink to={" "}>Home</NavLink>
+                <NavLink to={"/"}>Home</NavLink>
             </li>
             <li>
                 <NavLink to={"/food"}>Food</NavLink>

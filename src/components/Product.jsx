@@ -9,7 +9,7 @@ export const Product = ({ product, cart, setCart}) => {
     }
   return (
     <div className="product">
-      <img src={product.pic} className="product_pic" />
+      <img src={process.env.PUBLIC_URL + product.pic} className="product_pic" />
       <div className="product-details">
       <h3>Name: {product.name}</h3>
       <h4>Price: ₹{product.price}</h4>
