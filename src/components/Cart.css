@@ -12,7 +12,7 @@
 .bill-details{
     display: flex;
     border: 2px solid orangered;
-    width: fit-content;
+    width: 700PX;
     align-items: center;
     gap: 20px;
     padding: 20px;

@@ -27,6 +27,7 @@
     letter-spacing: 2px;
 }
 .productadd{
+    width: 35px;
     position: absolute;
     right: 25px;
     bottom: -10px;

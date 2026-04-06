@@ -9,6 +9,7 @@ export const Cart = ({cart, setCart}) => {
     setTotal(cart.reduce((acc , curr)=> acc+ Number(curr.price),0))
   },[cart])
 
+
   return (
     <div className="card">
       <h1>Food Bill</h1>
@@ -18,7 +19,7 @@ export const Cart = ({cart, setCart}) => {
           <img src={product.pic} alt="image" />
           <div>
             <h2>Food Name: {product.name}</h2>
-            <h3>Food Price ₹{product.price}</h3>
+            <h3>Food Price ₹{process.env.PUBLIC_URL + product.pic}</h3>
           </div>
         </div>
       ))}
