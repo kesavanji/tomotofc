@@ -19,7 +19,7 @@ export const Cart = ({cart, setCart}) => {
           <img src={product.pic} alt="image" />
           <div>
             <h2>Food Name: {product.name}</h2>
-            <h3>Food Price ₹{process.env.PUBLIC_URL + product.pic}</h3>
+            <h3>Food Price ₹{product.pic}</h3>
           </div>
         </div>
       ))}
